@@ -1,0 +1,1 @@
+#Organiza a passagem de informações de client para host e vice versa
