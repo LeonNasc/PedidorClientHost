@@ -1,3 +1,4 @@
+#encoding: utf-8
 #Host que visualiza, aceita e libera pedidos
 class Host:
   
